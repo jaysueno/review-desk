@@ -1,0 +1,22 @@
+{
+  "name": "review-desk",
+  "version": "1.0.0",
+  "description": "A review desk where a model drafts, a person edits, every edit becomes data, and repeated edits become rules the next draft must pass.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Jay Sueno",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "test": "node --test test/*.test.mjs",
+    "eval": "node scripts/eval.mjs",
+    "generate": "node scripts/generate-reviews.mjs --seed 7 --out data/reviews.json",
+    "draft": "node scripts/draft.mjs --reviews data/reviews.json --out data/drafts.json",
+    "gate": "node scripts/gate.mjs --reviews data/reviews.json --drafts data/drafts.json --out data/gated.json",
+    "promote": "node scripts/promote.mjs",
+    "golden": "node scripts/make-golden.mjs --seed 7 --out evals/golden.json",
+    "images": "node docs/img/make.mjs"
+  }
+}

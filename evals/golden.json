@@ -1,0 +1,265 @@
+{
+  "cases": [
+    {
+      "review": {
+        "id": "g-01",
+        "rating": 5,
+        "language": "en",
+        "reviewer": "Mara",
+        "text": "The sourdough was warm and the crust was perfect. I came back the next day for another loaf.",
+        "topics": [
+          "product"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "Thank you for the kind words about the sourdough. We are glad it made your morning."
+    },
+    {
+      "review": {
+        "id": "g-02",
+        "rating": 2,
+        "language": "en",
+        "reviewer": "Tobin",
+        "text": "My order was missing the cardamom buns and nobody called me back.",
+        "topics": [
+          "order"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "I am sorry the cardamom buns were missing from your order. Thank you for telling us, and the team will look into it."
+    },
+    {
+      "review": {
+        "id": "g-03",
+        "rating": 5,
+        "language": "en",
+        "reviewer": "Tino",
+        "text": "Nell Marchetti helped me choose a cake and was patient with my questions.",
+        "topics": [
+          "service"
+        ],
+        "staff": [
+          {
+            "first": "Nell",
+            "last": "Marchetti"
+          }
+        ],
+        "flags": [
+          "staff-named"
+        ]
+      },
+      "approved": "Thank you for the kind words about Nell. We will pass them on to her."
+    },
+    {
+      "review": {
+        "id": "g-04",
+        "rating": 1,
+        "language": "en",
+        "reviewer": "Joss",
+        "text": "I waited almost an hour for a flat white and the room was packed.",
+        "topics": [
+          "wait"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "I am sorry about the long wait for your flat white. Thank you for your patience, and we are working on the morning rush."
+    },
+    {
+      "review": {
+        "id": "g-05",
+        "rating": 3,
+        "language": "en",
+        "reviewer": "Boro",
+        "text": "The room is pretty but the tables were sticky and the music was loud.",
+        "topics": [
+          "atmosphere"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "Thank you for the honest note. We are sorry the room did not feel right, and we will look at the tables and the music."
+    },
+    {
+      "review": {
+        "id": "g-06",
+        "rating": 2,
+        "language": "en",
+        "reviewer": "Oren",
+        "text": "I paid $21 for a cake and it arrived damaged. I would like a refund.",
+        "topics": [
+          "order"
+        ],
+        "staff": [],
+        "flags": [
+          "refund"
+        ]
+      },
+      "approved": "I am sorry the cake arrived damaged. Thank you for the details; please talk with us at the counter so we can hear more."
+    },
+    {
+      "review": {
+        "id": "g-07",
+        "rating": 1,
+        "language": "en",
+        "reviewer": "Zeno",
+        "text": "This counter is a joke and nobody seems to care.",
+        "topics": [
+          "service"
+        ],
+        "staff": [],
+        "flags": [
+          "abusive"
+        ]
+      },
+      "approved": "I am sorry to read this. We would rather hear it directly, and the team will read every word."
+    },
+    {
+      "review": {
+        "id": "g-08",
+        "rating": 4,
+        "language": "en",
+        "reviewer": "Ines",
+        "text": "The bread is good and the prices feel fair for the size.",
+        "topics": [
+          "value"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "Thank you for the kind words about the value. We are glad the visit felt fair and hope to see you again."
+    },
+    {
+      "review": {
+        "id": "g-09",
+        "rating": 5,
+        "language": "es",
+        "reviewer": "Cira",
+        "text": "El pan de centeno estaba delicioso y el trato fue muy amable.",
+        "topics": [
+          "product"
+        ],
+        "staff": [],
+        "flags": [
+          "non-english"
+        ]
+      },
+      "approved": "Gracias por las palabras sobre el pan. Nos alegra que te gustara y esperamos verte pronto por aqui."
+    },
+    {
+      "review": {
+        "id": "g-10",
+        "rating": 2,
+        "language": "es",
+        "reviewer": "Kira",
+        "text": "El trato fue frio y nadie nos atendio.",
+        "topics": [
+          "service"
+        ],
+        "staff": [],
+        "flags": [
+          "non-english"
+        ]
+      },
+      "approved": "Sentimos que el trato no estuviera a la altura. Gracias por contarnoslo y el equipo lo revisara."
+    },
+    {
+      "review": {
+        "id": "g-11",
+        "rating": 4,
+        "language": "es",
+        "reviewer": "Lucia",
+        "text": "El pedido llego bien y el pan estaba rico.",
+        "topics": [
+          "order"
+        ],
+        "staff": [],
+        "flags": [
+          "non-english"
+        ]
+      },
+      "approved": "Gracias por contarnos tu visita. Nos alegra que el pedido llegara bien y esperamos verte de nuevo."
+    },
+    {
+      "review": {
+        "id": "g-12",
+        "rating": 1,
+        "language": "es",
+        "reviewer": "Dov",
+        "text": "La espera fue muy larga y el cafe llego frio.",
+        "topics": [
+          "wait"
+        ],
+        "staff": [],
+        "flags": [
+          "non-english"
+        ]
+      },
+      "approved": "Sentimos la espera tan larga. Gracias por la paciencia y estamos trabajando en las mananas."
+    },
+    {
+      "review": {
+        "id": "g-13",
+        "rating": 4,
+        "language": "en",
+        "reviewer": "Lio",
+        "text": "The focaccia was soft and the olive bread sold out before noon.",
+        "topics": [
+          "product"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "Thank you for the kind words about the focaccia. We are glad the bake landed well and hope to see you soon."
+    },
+    {
+      "review": {
+        "id": "g-14",
+        "rating": 2,
+        "language": "en",
+        "reviewer": "Boro",
+        "text": "The seeded loaf was dry and the brownie was stale.",
+        "topics": [
+          "product"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "I am sorry the seeded loaf was dry. Thank you for telling us and the team will check the bake."
+    },
+    {
+      "review": {
+        "id": "g-15",
+        "rating": 5,
+        "language": "en",
+        "reviewer": "Koa",
+        "text": "The light in the room is lovely and the coffee was just right.",
+        "topics": [
+          "atmosphere"
+        ],
+        "staff": [],
+        "flags": []
+      },
+      "approved": "Thank you for the kind words about the room. We are glad the light and the coffee felt right."
+    },
+    {
+      "review": {
+        "id": "g-16",
+        "rating": 3,
+        "language": "es",
+        "reviewer": "Nia",
+        "text": "El lugar es bonito pero la mesa estaba sucia y la musica muy alta.",
+        "topics": [
+          "atmosphere"
+        ],
+        "staff": [],
+        "flags": [
+          "non-english"
+        ]
+      },
+      "approved": "Gracias por la nota honesta. Sentimos que el lugar no fuera agradable y revisaremos lo que nos cuentas."
+    }
+  ]
+}

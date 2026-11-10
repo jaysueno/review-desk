@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img">
+<title>The review desk loop</title>
+<desc>A draft passes six gates, a person edits it, three edits of one correction class become a rule with its test, and the eval replays the approved set so the pass rate never drops.</desc>
+<rect x="1" y="1" width="1198" height="458" rx="4" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="50" y="66" font-family="Georgia, 'Playfair Display', serif" font-size="34" fill="#F2EDE2">The review desk loop</text>
+<text x="50" y="100" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">A draft, a gate, a person, a rule. The edit is stored and the rule is tested.</text>
+<rect x="50" y="150" width="200" height="132" rx="4" fill="none" stroke="#EDE7DC" stroke-width="1"/>
+<text x="68" y="188" font-family="Georgia, 'Playfair Display', serif" font-size="24" fill="#F2EDE2">Draft</text>
+<text x="68" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">Template or model</text>
+<text x="68" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">last approved edits</text>
+<circle cx="68" cy="260" r="5" fill="#EDE7DC"/>
+<line x1="256" y1="216" x2="272" y2="216" stroke="#8C5348" stroke-width="2"/>
+<polygon points="272,216 262,210 262,222" fill="#8C5348"/>
+<rect x="275" y="150" width="200" height="132" rx="4" fill="none" stroke="#EDE7DC" stroke-width="1"/>
+<text x="293" y="188" font-family="Georgia, 'Playfair Display', serif" font-size="24" fill="#F2EDE2">Gate</text>
+<text x="293" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">six rule modules</text>
+<text x="293" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">hard zeros stop it</text>
+<circle cx="293" cy="260" r="5" fill="#8C5348"/>
+<line x1="481" y1="216" x2="497" y2="216" stroke="#8C5348" stroke-width="2"/>
+<polygon points="497,216 487,210 487,222" fill="#8C5348"/>
+<rect x="500" y="150" width="200" height="132" rx="4" fill="none" stroke="#EDE7DC" stroke-width="1"/>
+<text x="518" y="188" font-family="Georgia, 'Playfair Display', serif" font-size="24" fill="#F2EDE2">Edit</text>
+<text x="518" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">a person decides</text>
+<text x="518" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">before and after stored</text>
+<circle cx="518" cy="260" r="5" fill="#59591D"/>
+<line x1="706" y1="216" x2="722" y2="216" stroke="#8C5348" stroke-width="2"/>
+<polygon points="722,216 712,210 712,222" fill="#8C5348"/>
+<rect x="725" y="150" width="200" height="132" rx="4" fill="none" stroke="#EDE7DC" stroke-width="1"/>
+<text x="743" y="188" font-family="Georgia, 'Playfair Display', serif" font-size="24" fill="#F2EDE2">Promote</text>
+<text x="743" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">three edits of one class</text>
+<text x="743" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">a rule and its test</text>
+<circle cx="743" cy="260" r="5" fill="#EDE7DC"/>
+<line x1="931" y1="216" x2="947" y2="216" stroke="#8C5348" stroke-width="2"/>
+<polygon points="947,216 937,210 937,222" fill="#8C5348"/>
+<rect x="950" y="150" width="200" height="132" rx="4" fill="none" stroke="#EDE7DC" stroke-width="1"/>
+<text x="968" y="188" font-family="Georgia, 'Playfair Display', serif" font-size="24" fill="#F2EDE2">Eval</text>
+<text x="968" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">approved set replayed</text>
+<text x="968" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#D8D3CA">no lower pass rate</text>
+<circle cx="968" cy="260" r="5" fill="#EDE7DC"/>
+<text x="50" y="356" font-family="Georgia, 'Playfair Display', serif" font-size="22" fill="#8C5348">Every edit is data. Every repeated edit is a rule.</text>
+<text x="50" y="392" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#D8D3CA">The gate never hides a refusal: a failed draft is shown with its reason.</text>
+</svg>

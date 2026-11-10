@@ -1,0 +1,5 @@
+{
+  "rate": 1,
+  "cases": 16,
+  "note": "Every approved case passed when this baseline was written. The rate only moves up; a drop fails the eval."
+}
