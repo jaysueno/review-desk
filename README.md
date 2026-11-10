@@ -7,6 +7,8 @@ shown on invented reviews.
 
 ## What it does
 
+![The edit view: the review, the approved draft with its rule check, and the person's edit beside it, ready to save or approve](docs/img/edit-page.png)
+
 ![The review desk loop: a draft, six gates, a person editing it, three edits of one class becoming a rule with its test, and an eval that replays the approved set so the pass rate never drops.](docs/img/loop.svg)
 
 A small local web app for answering reviews with a loop that learns. The reviews, the bakery and
